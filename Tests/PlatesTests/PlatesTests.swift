@@ -1,7 +1,3 @@
     import XCTest
     @testable import Plates
-
-    final class PlatesTests: XCTestCase {
-        func testExample() {
-        }
-    }
+    final class PlatesTests: XCTestCase {}
